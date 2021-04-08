@@ -7,6 +7,10 @@ The vehicles have three depth sensors (left, right and front), a steering wheel,
 The Neural Network is trained using a Genetic Algorithm. There's no special library used, every component (Genetic Algorithm, Neural Network, Race Track Generator are implemented using plain C#)
 
 
+## Visualization of trained agent 
+
 ![Trained Agent](demo/without_laser.gif)
+
+## Visualization of depth sensor on trained agent
 
 ![Depth sensor visualization](demo/with_laser.gif)
