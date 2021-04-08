@@ -13,4 +13,4 @@ The Neural Network is trained using a Genetic Algorithm. There's no special libr
 
 ## Visualization of depth sensor on trained agent
 
-![Depth sensor visualization](demo/with_laser.gif)
+![Depth sensor visualization](demo/with_laser_car.gif)
